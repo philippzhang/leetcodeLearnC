@@ -10,3 +10,4 @@ add_executable(main2 test2.c)
 
 add_subdirectory(c1)
 add_subdirectory(lc0001)
+add_subdirectory(base)
