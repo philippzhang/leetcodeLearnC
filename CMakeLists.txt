@@ -9,5 +9,6 @@ add_executable(main1 test1.c)
 add_executable(main2 test2.c)
 
 add_subdirectory(c1)
-add_subdirectory(lc0001)
+
 add_subdirectory(base)
+add_subdirectory(leetcode)
